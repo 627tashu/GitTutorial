@@ -1,1 +1,1 @@
-"info about this project" 
+"Git Tutorial by Krish Naik" 
